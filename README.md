@@ -6,4 +6,4 @@
 ## Практика 5 - [PR5](https://github.com/Evgesha8286/Pankov-AZSII/tree/cf8eb8e0d827507f2382fe67444a80d2ba1acb73/PR5)
 
 # Выполнение лабораторных работ по предмету АЗСИИ:
-## Лабораторная работа 1 - [LR1]()
+## Лабораторная работа 1 - [LR1](https://github.com/Evgesha8286/Pankov-AZSII/tree/efb580948d853de6448f745bb76995ad46161a72/LR1)

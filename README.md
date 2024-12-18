@@ -6,6 +6,7 @@
 ## Практика 5 - [PR5](https://github.com/Evgesha8286/Pankov-AZSII/tree/cf8eb8e0d827507f2382fe67444a80d2ba1acb73/PR5)
 ## Практика 6 - [PR6](https://github.com/Evgesha8286/Pankov-AZSII/tree/fd24f47864dd060f50b96532d8abb01543f794b2/PR6)
 ## Практика 7 - [PR7](https://github.com/Evgesha8286/Pankov-AZSII/tree/fc83781674ecc308d4d7ae853d256defdac21893/PR7)
+## Практика 8 - [PR8](https://github.com/Evgesha8286/Pankov-AZSII/tree/c3b21b660dece9f0fd4c6dd43ed259a6beb219f0/PR8)
 
 # Выполнение лабораторных работ по предмету АЗСИИ:
 ## Лабораторная работа 1 - [LR1](https://github.com/Evgesha8286/Pankov-AZSII/tree/efb580948d853de6448f745bb76995ad46161a72/LR1)

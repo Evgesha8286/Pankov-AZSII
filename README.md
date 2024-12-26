@@ -10,4 +10,5 @@
 
 # Выполнение лабораторных работ по предмету АЗСИИ:
 ## Лабораторная работа 1 - [LR1](https://github.com/Evgesha8286/Pankov-AZSII/tree/efb580948d853de6448f745bb76995ad46161a72/LR1)
+## Лабораторная работа 2 - [LR2]()
 ## Лабораторная работа 3 - [LR3](https://github.com/Evgesha8286/Pankov-AZSII/tree/9f856243c65ea0bb758c1cbaddd0fc6baea2d70c/LR3)
